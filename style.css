@@ -75,11 +75,14 @@ footer{
   }
 
   .box-item{
+    width: 90%;
+    height: auto;
     margin: 0 auto;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
 
   .box-item:last-child{
     margin: 0 auto;
+
   }
 }
